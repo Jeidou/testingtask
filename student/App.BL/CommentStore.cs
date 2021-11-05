@@ -3,7 +3,7 @@ using System.Configuration;
 
 namespace App.BL
 {
-    // DO NOT CHANGE IT AT ALL
+    // DO NOT CHANGE STATIC
     public static class CommentStore
     {
         public static void AddCommentToThread(Comment comment)
